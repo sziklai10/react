@@ -1,0 +1,10 @@
+.head{
+  height:100vh;
+  background:black;
+}
+h1{
+  color:white;
+}
+video{
+position: relative;
+}
